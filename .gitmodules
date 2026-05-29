@@ -1,3 +1,0 @@
-[submodule "interTempFoam"]
-	path = interTempFoam
-	url = https://github.com/jwm349/interTempFoam.git
