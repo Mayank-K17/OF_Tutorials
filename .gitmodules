@@ -1,0 +1,3 @@
+[submodule "interTempFoam"]
+	path = interTempFoam
+	url = git@github.com:Mayank-K17/interTempFoam.git
